@@ -51,6 +51,9 @@ Jika input tidak ada dalam menu, pesan kesalahan ditampilkan.
 
 3. Program harus menghitung total harga makanan yang dipesan, dan Program harus menampilkan struk pembelian
 
+![Capture 3](https://github.com/annisasaidah06/UAS/assets/148035766/23b26897-999a-45c3-afc2-30a2b9a79a3e)
+
+
 Penjelasan
 Setelah pengguna selesai dengan pesanan, total harga dari pesanan dihitung menggunakan fungsi hitung_total(), dengan menggunakan pesanan sebagai argumen.
 
