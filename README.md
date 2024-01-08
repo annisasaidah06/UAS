@@ -27,8 +27,40 @@ Buatlah program kasir di sebuah kantin, dengan kondisi berikut:
 
 Penjelasan
 Menu Awal: mencakup beberapa item makanan/minuman beserta harganya. Didefinisikan dalam dictionary menu.
+
 Fungsi tampilkan_menu(): digunakan untuk menampilkan menu makanan/minuman beserta harganya ke layar.
+
 Fungsi hitung_total(): menghitung total harga dari pesanan yang diberikan sebagai argumen.
+
 Fungsi tampilkan_struk(): menampilkan struk pembelian berdasarkan pesanan yang telah dibuat dan total harga.
+
+2. Program harus meminta input pilihan makanan dari pengguna
+![Capture 2](https://github.com/annisasaidah06/UAS/assets/148035766/4679b0da-691f-4c86-8ce6-d500f704a19b)
+
+Penjelasan
+Fungsi tampilkan_menu() dipanggil di awal untuk menampilkan menu makanan/minuman beserta harganya ke layar.
+
+Sebuah loop while digunakan untuk terus meminta pengguna untuk memilih item dari menu sampai pengguna ingin mengakhiri pesanan dengan mengetikkan 'selesai'. Setiap kali dalam loop, pengguna diminta untuk memasukkan pilihan mereka.
+Input pengguna diperiksa:
+
+Jika input adalah 'selesai', loop dihentikan dengan mengubah variabel lanjut menjadi False.
+
+Jika input ada dalam menu, item tersebut ditambahkan ke dalam pesanan.
+
+Jika input tidak ada dalam menu, pesan kesalahan ditampilkan.
+
+3. Program harus menghitung total harga makanan yang dipesan, dan Program harus menampilkan struk pembelian
+
+Penjelasan
+Setelah pengguna selesai dengan pesanan, total harga dari pesanan dihitung menggunakan fungsi hitung_total(), dengan menggunakan pesanan sebagai argumen.
+
+Fungsi tampilkan_struk() dipanggil untuk menampilkan struk pembelian berdasarkan pesanan yang telah dibuat dan total harga yang dihitung.
+
+tampilan output:
+
+![ss1](https://github.com/annisasaidah06/UAS/assets/148035766/5be64f6b-63d5-4eb2-b07c-9f0a6750eca7)
+
+
+
 
 
