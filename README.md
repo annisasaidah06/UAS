@@ -20,3 +20,5 @@ Buatlah program kasir di sebuah kantin, dengan kondisi berikut:
 • Program harus menghitung total harga makanan yang dipesan.
 
 • Program harus menampilkan struk pembelian.
+
+![image](https://github.com/annisasaidah06/UAS/assets/148035766/fc16e96f-ef49-44a6-8983-4e233f3285a9)
